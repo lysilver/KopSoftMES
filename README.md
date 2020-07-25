@@ -1,5 +1,5 @@
 # KopSoftMES
-KopSoftMES
+KopSoft制造执行系统
 
 ****
 * KopSoft标签打印软件 http://wms.kopsoft.cn/print/
