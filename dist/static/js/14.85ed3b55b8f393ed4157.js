@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{m48O:function(e,r,t){"use strict";t.r(r);var n=t("KHd+"),u=Object(n.a)({created:function(){var e=this.$route,r=e.params,t=e.query,n=r.path;this.$router.replace({path:"/"+n,query:t})},render:function(e){return e()}},void 0,void 0,!1,null,null,null);r.default=u.exports}}]);
